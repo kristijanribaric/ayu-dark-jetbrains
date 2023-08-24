@@ -1,0 +1,26 @@
+
+<idea-plugin>
+    <id>ayu-dark</id>
+    <version>1.0.0</version>
+
+    <name>Ayu Dark</name>
+    <category>UI</category>
+
+    <vendor email="kriba13@gmail.com" url="https://github.com/kristijanribaric">Kristijan Ribaric</vendor>
+
+    <idea-version since-build="222" until-build="232.*"/>
+    <description><![CDATA[
+    Jetbrains theme inspired by Ayu Dark theme for VS Code.<br>
+  ]]></description>
+
+    <change-notes><![CDATA[
+    Initial release of the theme.
+  ]]></change-notes>
+
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="ayu-dark" path="/theme/ayu-dark.theme.json"/>
+    </extensions>
+</idea-plugin>
