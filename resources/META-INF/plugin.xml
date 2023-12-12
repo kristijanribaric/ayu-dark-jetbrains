@@ -1,7 +1,7 @@
 
 <idea-plugin>
     <id>ayu-dark</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Ayu Dark</name>
     <category>UI</category>
