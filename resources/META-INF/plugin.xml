@@ -8,7 +8,7 @@
 
     <vendor email="kriba13@gmail.com" url="https://github.com/kristijanribaric">Kristijan Ribaric</vendor>
 
-    <idea-version since-build="222" until-build="242.*"/>
+    <idea-version since-build="222"/>
     <description><![CDATA[
     Theme plugin for JetBrains products inspired by Ayu Dark theme for VS Code.<br>
   ]]></description>
